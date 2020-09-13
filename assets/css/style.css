@@ -379,8 +379,7 @@ input::-webkit-input-placeholder {
 .hero-area {
 	z-index: 1;
 	position: relative;
-
-    background-repeat: no-repeat;
+ background-repeat: no-repeat;
     background-position: center;
 	background-attachment: fixed;
     background-size: cover;
