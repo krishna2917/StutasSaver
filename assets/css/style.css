@@ -377,10 +377,9 @@ input::-webkit-input-placeholder {
 -------- HERO AREA CSS START --------
 ---------------------------------------*/
 .hero-area {
-    padding-top: 20px;
 	z-index: 1;
 	position: relative;
-    background-image: url(../img/hero-area.jpg);
+
     background-repeat: no-repeat;
     background-position: center;
 	background-attachment: fixed;
